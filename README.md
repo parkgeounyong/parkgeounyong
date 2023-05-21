@@ -16,3 +16,9 @@
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://www.java.com/ko/)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://en.cppreference.com/w/c)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/parkgeounyong/parkgeounyong/tree/main)
+
+  spring, spring boot, 인섬니아, 도커, oracle dbms, mysql
+  
+  intellij, vscode, visual stdio, jupyter notebook
+  
+  노션, 깃허브
