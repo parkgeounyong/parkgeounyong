@@ -1,7 +1,7 @@
-<h1 align="center"> ParkGeounYong Profile🌱<h1>
+<h1> ParkGeounYong Profile🌱<h1>
   
   
-<h3 align="center">
+<h3>
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm ParkGeounYong.<br>
@@ -10,7 +10,10 @@
     </i>
 </h3>
   
+----------------------------------------------------------------------
   
+<h3> The following are the things I use or study.</h3>
+
 ### Language
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://www.java.com/ko/)
