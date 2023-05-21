@@ -1,14 +1,14 @@
 <h1 align="center"> ParkGeounYong Profile🌱<h1>
   
   
-<p align="center">
+<h3 align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm ParkGeounYong.<br>
-        Currently learning to walk in .<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        Currently learning to backend development skills.<br>
+        My 1st goal is to become a full-stack developer.<br>
     </i>
-</p>
+</h3>
   
   
 ### Language
