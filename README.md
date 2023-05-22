@@ -6,7 +6,6 @@
     <i>
         I'm ParkGeounYong.<br>
         Currently learning to backend development skills.<br>
-        My 1st goal is to become a full-stack developer.<br>
     </i>
 </h3>
   
