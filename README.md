@@ -16,17 +16,17 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://en.cppreference.com/w/c)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/parkgeounyong/parkgeounyong/tree/main)
 
-###Framework/Tool
+### Framework/Tool
 Spring
 Spring Boot
 인섬니아(Insenia)
 Docker
   
-###DBMS
+### DBMS
 oracle dbms, mysql
   
-###IDE
+### IDE
 intellij, vscode, visual stdio, jupyter notebook
   
-###DevOps
+### DevOps
 노션, 깃허브
