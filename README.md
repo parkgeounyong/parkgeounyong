@@ -16,8 +16,17 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://en.cppreference.com/w/c)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/parkgeounyong/parkgeounyong/tree/main)
 
-  spring, spring boot, 인섬니아, 도커, oracle dbms, mysql
+###Framework/Tool
+Spring
+Spring Boot
+인섬니아(Insenia)
+Docker
   
-  intellij, vscode, visual stdio, jupyter notebook
+###DBMS
+oracle dbms, mysql
   
-  노션, 깃허브
+###IDE
+intellij, vscode, visual stdio, jupyter notebook
+  
+###DevOps
+노션, 깃허브
