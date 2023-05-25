@@ -6,6 +6,7 @@
     <i>
         I'm ParkGeounYong.<br>
         Currently learning to backend development skills.<br>
+        I want to be a PM.
     </i>
 </h3>
   
