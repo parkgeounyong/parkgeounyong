@@ -15,7 +15,7 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://www.java.com/ko/)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://en.cppreference.com/w/c)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/parkgeounyong/parkgeounyong/tree/main)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql)](https://github.com/parkgeounyong/parkgeounyong/tree/main)
 
 ### Framework/Tool
 [![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=Spring)](https://spring.io/)
@@ -34,4 +34,5 @@
 
   
 ### DevOps
-노션, 깃허브
+[![notion](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion)](https://www.notion.so/ko-kr/product?utm_source=google&utm_campaign=10805039169&utm_medium=104440699817&utm_content=455555244419&utm_term=%EB%85%B8%EC%85%98&targetid=kwd-827502875973&gclid=CjwKCAjw67ajBhAVEiwA2g_jEAhbAW04NueVdToBMCd_L3F0mst9jY6FUFeSR_pp45FGDGCPv0nI7RoCPsUQAvD_BwE)
+[![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/parkgeounyong)
