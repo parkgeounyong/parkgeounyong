@@ -18,20 +18,20 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/parkgeounyong/parkgeounyong/tree/main)
 
 ### Framework/Tool
-Spring
-Spring Boot
-인섬니아(Insenia)
-Docker
-[![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=Spring)](https://www.python.org/)
-[![Spring Boot](https://img.shields.io/badge/SpringBoot-black?style=for-the-badge&logo=SpringBoot)](https://www.java.com/ko/)
-[![Insenia](https://img.shields.io/badge/Insenia-black?style=for-the-badge&logo=Insenia)](https://en.cppreference.com/w/c)
-[![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)](https://github.com/parkgeounyong/parkgeounyong/tree/main)
+[![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=Spring)](https://spring.io/)
+[![Spring Boot](https://img.shields.io/badge/SpringBoot-black?style=for-the-badge&logo=SpringBoot)](https://start.spring.io/)
+[![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=Insomnia)](https://en.cppreference.com/w/c)
+[![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)](https://www.docker.com/)
   
 ### DBMS
-oracle dbms, mysql
+[![oracle](https://img.shields.io/badge/oracle-black?style=for-the-badge&logo=oracle)](https://www.oracle.com/kr/database/)
+[![mysql](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
   
 ### IDE
-intellij, vscode, visual stdio, jupyter notebook
+[![intellij](https://img.shields.io/badge/intellij-black?style=for-the-badge&logo=intellij)](https://start.spring.io/)
+[![vscode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code)](https://en.cppreference.com/w/c)
+[![jupyter notebook](https://img.shields.io/badge/Jupyter_Notebook-black?style=for-the-badge&logo=jupyter)](https://www.docker.com/)
+
   
 ### DevOps
 노션, 깃허브
