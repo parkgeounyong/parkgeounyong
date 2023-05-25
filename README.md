@@ -28,7 +28,7 @@
 [![mysql](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
   
 ### IDE
-[![intellij](https://img.shields.io/badge/intellij-black?style=for-the-badge&logo=intellij)](https://start.spring.io/)
+[![intellij](https://img.shields.io/badge/intellij-black?style=for-the-badge&logo=IntelliJ)](https://start.spring.io/)
 [![vscode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code)](https://en.cppreference.com/w/c)
 [![jupyter notebook](https://img.shields.io/badge/Jupyter_Notebook-black?style=for-the-badge&logo=jupyter)](https://www.docker.com/)
 
