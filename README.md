@@ -22,6 +22,7 @@
 [![Spring Boot](https://img.shields.io/badge/SpringBoot-black?style=for-the-badge&logo=SpringBoot)](https://start.spring.io/)
 [![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=Insomnia)](https://insomnia.rest/)
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)](https://www.docker.com/)
+[![Insomnia](https://img.shields.io/badge/insomnia-black?style=for-the-badge&logo=insomnia)](https://insomnia.rest/)
   
 ### DBMS
 [![oracle](https://img.shields.io/badge/oracle-black?style=for-the-badge&logo=oracle)](https://www.oracle.com/kr/database/)
