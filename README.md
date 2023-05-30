@@ -7,7 +7,7 @@
         I'm ParkGeounYong.<br>
         Currently learning to backend development skills.<br>
         Frist, I want to be a Back-end Developer.<br>
-        As a result, I want to be a PM.
+        As a result, I want to be a PM!
     </i>
 </h3>
   
