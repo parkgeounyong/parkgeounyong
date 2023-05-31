@@ -1,15 +1,23 @@
-<h1> ParkGeounYong Profile🌱<h1>
+<h1> ParkGeounYong Profile🌱</h1>
   
   
 <h3>
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm ParkGeounYong.<br>
-        Currently learning to backend development skills.<br>
-        Frist, I want to be a Back-end Developer.<br>
-        As a result, I want to be a PM!
-    </i>
-</h3>
+  <i>
+    <h2>My Key Values!</h2>
+    top-down<br>
+    divide and conquer<br>
+    text < hyperlink < image < video<br><br>
+  </i>
+</h3>    
+  
+<h3>
+  <i>
+    <h2>My Goal!</h2>
+    Currently learning to backend development skills.<br>
+    Frist, I want to be a Back-end Developer.<br>
+    As a result, I want to be a PM!
+  </i>
+</h3> 
   
 ----------------------------------------------------------------------
 ### Language
