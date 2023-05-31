@@ -39,3 +39,4 @@
 ### DevOps
 [![notion](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion)](https://www.notion.so/ko-kr/product?utm_source=google&utm_campaign=10805039169&utm_medium=104440699817&utm_content=455555244419&utm_term=%EB%85%B8%EC%85%98&targetid=kwd-827502875973&gclid=CjwKCAjw67ajBhAVEiwA2g_jEAhbAW04NueVdToBMCd_L3F0mst9jY6FUFeSR_pp45FGDGCPv0nI7RoCPsUQAvD_BwE)
 [![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/parkgeounyong)
+[![Google Drive](https://img.shields.io/badge/googledrive-black?style=for-the-badge&logo=googledrive)](https://github.com/parkgeounyong)
