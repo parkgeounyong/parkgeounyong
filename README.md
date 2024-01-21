@@ -28,12 +28,13 @@
 ### Framework/Tool
 [![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=Spring)](https://spring.io/)
 [![Spring Boot](https://img.shields.io/badge/SpringBoot-black?style=for-the-badge&logo=SpringBoot)](https://start.spring.io/)
+[![kibana](https://img.shields.io/badge/kibana-black?style=for-the-badge&logo=kibana)](https://www.kibana.com/)
+[![Grafana](https://img.shields.io/badge/grafana-black?style=for-the-badge&logo=grafana)](https://www.grafana.com/)
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon)](https://aws.amazon.com/)
 
 ### DBMS
-[![oracle](https://img.shields.io/badge/oracle-black?style=for-the-badge&logo=oracle)](https://www.oracle.com/kr/database/)
-[![mysql](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+[![postgreSql](https://img.shields.io/badge/postgreSql-black?style=for-the-badge&logo=postgreSql)](https://www.postgreSql.com/kr/database/)
   
 ### IDE
 [![intellij](https://img.shields.io/badge/intellij-black?style=for-the-badge&logo=IntelliJ)](https://www.jetbrains.com/ko-kr/idea/)
@@ -42,6 +43,7 @@
 
   
 ### DevOps
-[![notion](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion)](https://www.notion.so/ko-kr/product?utm_source=google&utm_campaign=10805039169&utm_medium=104440699817&utm_content=455555244419&utm_term=%EB%85%B8%EC%85%98&targetid=kwd-827502875973&gclid=CjwKCAjw67ajBhAVEiwA2g_jEAhbAW04NueVdToBMCd_L3F0mst9jY6FUFeSR_pp45FGDGCPv0nI7RoCPsUQAvD_BwE)
 [![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/parkgeounyong)
-[![Google Drive](https://img.shields.io/badge/googledrive-black?style=for-the-badge&logo=googledrive)](https://github.com/parkgeounyong)
+[![TeamCity](https://img.shields.io/badge/googledrive-black?style=for-the-badge&logo=googledrive)](https://github.com/parkgeounyong)
+[![YouTrack](https://img.shields.io/badge/googledrive-black?style=for-the-badge&logo=googledrive)](https://github.com/parkgeounyong)
+
