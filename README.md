@@ -22,10 +22,8 @@
   
 ----------------------------------------------------------------------
 ### Language
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://en.cppreference.com/w/c)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://www.java.com/ko/)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql)](https://aws.amazon.com/ko/what-is/sql/)
+[![Kotlin]
 
 ### Framework/Tool
 [![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=Spring)](https://spring.io/)
