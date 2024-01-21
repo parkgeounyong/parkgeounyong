@@ -29,6 +29,7 @@
 [![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=Spring)](https://spring.io/)
 [![Spring Boot](https://img.shields.io/badge/SpringBoot-black?style=for-the-badge&logo=SpringBoot)](https://start.spring.io/)
 [![kibana](https://img.shields.io/badge/kibana-black?style=for-the-badge&logo=kibana)](https://www.kibana.com/)
+[![jdbi](https://img.shields.io/badge/jdbi-black?style=for-the-badge&logo=jdbi)](https://www.jdbi.com/)
 [![Grafana](https://img.shields.io/badge/grafana-black?style=for-the-badge&logo=grafana)](https://www.grafana.com/)
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon)](https://aws.amazon.com/)
