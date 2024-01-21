@@ -6,6 +6,7 @@
     <h2>My Key Values!</h2>
     top-down<br>
     divide and conquer<br>
+    Metacognition<br>
     text < hyperlink < image < video<br><br>
   </i>
 </h3>    
