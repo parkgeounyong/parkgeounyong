@@ -23,7 +23,7 @@
 ----------------------------------------------------------------------
 ### Language
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Kotlin](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://www.kotlin.org/)
 
 ### Framework/Tool
 [![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=Spring)](https://spring.io/)
