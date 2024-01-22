@@ -45,6 +45,6 @@
   
 ### DevOps
 [![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/parkgeounyong)
-[![TeamCity](https://img.shields.io/badge/googledrive-black?style=for-the-badge&logo=googledrive)](https://github.com/parkgeounyong)
-[![YouTrack](https://img.shields.io/badge/googledrive-black?style=for-the-badge&logo=googledrive)](https://github.com/parkgeounyong)
+[![TeamCity](https://img.shields.io/badge/TeamCity-black?style=for-the-badge&logo=TeamCity)](https://github.com/parkgeounyong)
+[![YouTrack](https://img.shields.io/badge/YouTrack-black?style=for-the-badge&logo=YouTrack)](https://github.com/parkgeounyong)
 
