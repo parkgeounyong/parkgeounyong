@@ -39,7 +39,6 @@
 ### IDE
 [![intellij](https://img.shields.io/badge/intellij-black?style=for-the-badge&logo=IntelliJ)](https://www.jetbrains.com/ko-kr/idea/)
 [![DataGrip](https://img.shields.io/badge/DataGrip-black?style=for-the-badge&logo=data-grip)](https://code.DataGrip.com/)
-[![PyCharm](https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=Py-Charm)](https://code.PyCharm.com/)
 
   
 ### DevOps
