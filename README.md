@@ -32,6 +32,7 @@
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon)](https://aws.amazon.com/)
 [![ELK](https://img.shields.io/badge/ELK-black?style=for-the-badge&logo=ELK)](https://www.ELK.com/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-black?style=for-the-badge&logo=RabbitMQ)](https://www.RabbitMQ.com/)
 
 ### DBMS
 [![postgreSql](https://img.shields.io/badge/postgreSql-black?style=for-the-badge&logo=postgreSql)](https://www.postgreSql.com/kr/database/)
