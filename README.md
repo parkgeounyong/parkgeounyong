@@ -35,7 +35,8 @@
 
 ### DBMS
 [![postgreSql](https://img.shields.io/badge/postgreSql-black?style=for-the-badge&logo=postgreSql)](https://www.postgreSql.com/kr/database/)
-  
+[![mySql](https://img.shields.io/badge/mySql-black?style=for-the-badge&logo=mySql)](https://www.mySql.com/kr/database/)
+
 ### IDE
 [![intellij](https://img.shields.io/badge/intellij-black?style=for-the-badge&logo=IntelliJ)](https://www.jetbrains.com/ko-kr/idea/)
 [![DataGrip](https://img.shields.io/badge/DataGrip-black?style=for-the-badge&logo=data-grip)](https://code.DataGrip.com/)
