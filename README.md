@@ -22,28 +22,27 @@
   
 ----------------------------------------------------------------------
 ### Language
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://www.kotlin.org/)
+[![php](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://www.php.org/)
 
-### Framework/Tool
-[![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=Spring)](https://spring.io/)
+### Framework
 [![Spring Boot](https://img.shields.io/badge/SpringBoot-black?style=for-the-badge&logo=SpringBoot)](https://start.spring.io/)
+
+### Tool
 [![Grafana](https://img.shields.io/badge/grafana-black?style=for-the-badge&logo=grafana)](https://www.grafana.com/)
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon)](https://aws.amazon.com/)
-[![ELK](https://img.shields.io/badge/ELK-black?style=for-the-badge&logo=ELK)](https://www.ELK.com/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-black?style=for-the-badge&logo=RabbitMQ)](https://www.RabbitMQ.com/)
 
 ### DBMS
 [![postgreSql](https://img.shields.io/badge/postgreSql-black?style=for-the-badge&logo=postgreSql)](https://www.postgreSql.com/kr/database/)
 [![mySql](https://img.shields.io/badge/mySql-black?style=for-the-badge&logo=mySql)](https://www.mySql.com/kr/database/)
 
-### IDE
-[![intellij](https://img.shields.io/badge/intellij-black?style=for-the-badge&logo=IntelliJ)](https://www.jetbrains.com/ko-kr/idea/)
-[![DataGrip](https://img.shields.io/badge/DataGrip-black?style=for-the-badge&logo=data-grip)](https://code.DataGrip.com/)
-  
 ### DevOps
-[![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/parkgeounyong)
+[![gitea](https://img.shields.io/badge/gitea-black?style=for-the-badge&logo=gitea)](https://gitea.com/parkgeounyong)
 [![TeamCity](https://img.shields.io/badge/TeamCity-black?style=for-the-badge&logo=TeamCity)](https://github.com/parkgeounyong)
-[![YouTrack](https://img.shields.io/badge/YouTrack-black?style=for-the-badge&logo=YouTrack)](https://github.com/parkgeounyong)
+
+### AWS
+[![lambda](https://img.shields.io/badge/lambda-black?style=for-the-badge&logo=lambda)](https://www.lambda.com/)
+[![redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)](https://aws.redis.com/)
+[![ec2](https://img.shields.io/badge/ec2-black?style=for-the-badge&logo=ec2)](https://aws.ec2.com/)
 
